@@ -1,4 +1,10 @@
-# RupiahToken (TRON) Smart Contract
+# RupiahToken (TRON) Smart Contract / https://finhacks.id/
+* Inital Supply 1,000,000,000 RPT
+* Code: RPT (RupiahToken)
+* Tron Contract Address: https://tronscan.org/#/token20/TU4AwCGjivfp3mKq7iAKPvoqmMCyAFrhrE
+* Website: rptoken.site
+* Email: info@rptoken.site
+
 Solidity smart contracts for the [TRON](https://tron.network) blockchain.
 
 This repository contains a library of sample smart contracts for the TRON network.
