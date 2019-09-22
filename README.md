@@ -15,7 +15,7 @@ Contracts include but not limited to implementations of standard-compliant token
 
 ### Clone repo:
 
-```git clone https://github.com/tronprotocol/tron-contracts.git```
+```git clone https://github.com/RupiahTokenTron/smart-contract```
 
 ### Import Address and Private Key:
 
@@ -27,7 +27,7 @@ Import an address and private key of an account into the "from" and "privateKey"
 
 ### Migrate:
 
-```tronbox migrate --reset```
+```source .env && tronbox migrate --reset --network production```
 
 ## Security
 
