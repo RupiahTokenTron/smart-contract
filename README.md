@@ -1,4 +1,4 @@
-# tron-contracts
+# RupiahToken (TRON) Smart Contract
 Solidity smart contracts for the [TRON](https://tron.network) blockchain.
 
 This repository contains a library of sample smart contracts for the TRON network.
