@@ -1,4 +1,4 @@
-# RupiahToken (TRON) Smart Contract / https://finhacks.id/
+# RupiahToken (TRON) Smart Contract for https://finhacks.id/
 * Inital Supply 1,000,000,000 RPT
 * Code: RPT (RupiahToken)
 * Tron Contract Address: https://tronscan.org/#/token20/TU4AwCGjivfp3mKq7iAKPvoqmMCyAFrhrE
